@@ -18,4 +18,5 @@ Open the solution in Visual Studio or VSCode, then run the Program.cs file. The 
 This example demonstrates how to use delegates and events in C# to track balance changes in a simple piggy bank (savings) scenario.
 
 ✅ Event OnBalanceChanged is triggered every time a deposit is made.
+
 ✅ Two event handlers show the updated balance and a goal reached message when the balance exceeds 500.
